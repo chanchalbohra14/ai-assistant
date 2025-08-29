@@ -62,41 +62,7 @@ Copy responses easily using the 'Copy' button.
 
 Provide feedback by selecting whether the response was helpful.
 
-View your recent interactions and usage statistics at the bottom.
-
-Notes
-The AI response content is simulated for demonstration and testing purposes. Replace the generateResponse function with your preferred AI API integration for real AI-powered outputs.
-
-The UI is optimized for various screen sizes, with two-column layouts on tablets and stacked single-column on smaller devices.
-
-The page scroll behavior is carefully designed: no automatic scroll occurs on function selection; smooth scroll only happens when the user interacts directly with the input area, providing an intuitive user experience.
-
-Future Improvements
-Integrate actual AI backend with API calls for live responses.
-
-Store interaction history and statistics in browser local storage or backend for persistence.
-
-Enhance accessibility features (ARIA roles, keyboard navigation).
-
-Add user authentication for personalized profiles and saved sessions.
-
-Offer dark/light theme toggle.
-
-License
-This project is open source and available under the MIT License.
-
 Contact
 For questions or feedback, please open an issue or submit a pull request.
 
 Enjoy your AI Assistant! 🤖✨
-
-
-
-
-
-
-
-
-
-
-Prompt Genie Logo
